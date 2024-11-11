@@ -12,7 +12,7 @@
     "q": "^1.5.1",
 	  "body-parser": "1.20.3",
     "express": "4.21.1",
-    "npm-check": "5.7.2",
+    "npm-check": "5.9.2",
     "send": "0.19.1",
     "depcheck": "0.9.2",
 	  "quill": "^2.0.0",
